@@ -1,7 +1,7 @@
 # TC4_Yuki Consulting_Salud | UPN    
 
 `Programado en C#`
-El siguiente Trabajo de Campo Nro. 04 presenta un caso que debe ser resuelto mediante listas enlazadas.    
+El siguiente Trabajo de Campo Nro. 04 presenta un caso que debe ser resuelto mediante colas de prioridad.    
 
 ## Caso propuesto    
 
@@ -19,7 +19,7 @@ excepciones:*
 | Apellidos  | String           | Cubas             |  
 
 *Para este caso, la consultora debe presentar un demo con 5 pacientes probando la función en inserción por orden de llegada, imprimir la lista de pacientes (nombres y 
-apellidos) en pantalla, luego procesar 2 pacientes, mostrar nuevamente la lista de jugadores, luego añadir 1 paciente con prioridad alta, mostrar la lista de pacientes, 
+apellidos) en pantalla, luego procesar 2 pacientes, mostrar nuevamente la lista de pacientes, luego añadir 1 paciente con prioridad alta, mostrar la lista de pacientes, 
 procesar 2 pacientes de la cola y finalmente mostrar la lista.*    
 
 ## Ventana de resultado    
